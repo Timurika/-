@@ -32,5 +32,5 @@
 высчитала основные метрики
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5mon"></a>
+> <a href="https://github.com/Skyproportfolio/data-analytics-5mon"> </a>
 
