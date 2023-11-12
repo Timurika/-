@@ -54,7 +54,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="[https://drive.google.com/drive/folders/11HcEeqniyrCMjuwHZ0GLysX0A2SEv-_x](https://github.com/Timurika/-Data-Analitics/blob/main/Юнит%20экономика%20онлайн%20кинотеатра.xlsx)">Ссылка на проект</a>
+> <a href="https://github.com/Timurika/-Data-Analitics/blob/main/Юнит%20экономика%20онлайн%20кинотеатра.xlsx">Ссылка на проект</a>
 
 а проект</a>
  
