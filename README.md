@@ -126,5 +126,5 @@
 - E-mail: ms.rika07@gmail.com
 - Telegram: marika_tsertsvadze
 <div align="left">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZuM2czYXIxcXEyZ3lvbzM5Mjh1Yml4YXhtaGZoNnczeDF2ZXp6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MjNqzWt0sXWZw5okrF/giphy.gif width="100" height="50"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZuM2czYXIxcXEyZ3lvbzM5Mjh1Yml4YXhtaGZoNnczeDF2ZXp6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MjNqzWt0sXWZw5okrF/giphy.gif" width="100" height="50"/>
 </div>
