@@ -126,5 +126,5 @@
 </ol>
 
 ## Контактная информация 
-📮 E-mail: ms.rika07@gmail.com
+📮 E-mail: ms.rika07@gmail.com <br>
 💬 Telegram: marika_tsertsvadze
