@@ -1,7 +1,7 @@
 # Портфолио: Церцвадзе Марика 👩‍💻:
 
-<div align="center">
-  <img src="https://morre.tech/_next/image?url=%2Fimages%2Fgifs%2Fdata-development.gif&w=640&q=75" width="200" height="100"/>
+<div align="right">
+  <img src="https://morre.tech/_next/image?url=%2Fimages%2Fgifs%2Fdata-development.gif&w=640&q=75" width="300" height="200"/>
 </div>
 
 ## Обо мне 
