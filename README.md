@@ -1,4 +1,4 @@
-# <color:#0a192f Портфолио: Церцвадзе Марика> 👩‍💻
+# Портфолио: Церцвадзе Марика <font color="blue">"Нубекс"</font> 👩‍💻
 
 <div align="center">
   <img src="https://img2.teletype.in/files/dd/fd/ddfd654f-1122-43d4-b9f1-2e1cfc2574ab.gif" width="600" height="300"/>
